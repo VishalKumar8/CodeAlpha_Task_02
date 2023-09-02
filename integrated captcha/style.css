@@ -1,0 +1,72 @@
+
+.navbar1{
+   background:rgb(23, 23, 24,1) ; 
+   color: rgb(105, 140, 171);
+}
+
+
+.nav1{
+    color: rgb(203, 164, 164);
+}
+
+
+.logo{
+    color: rgb(69, 166, 251);
+    font-weight: 600;
+    font-size: 30px;
+}
+
+
+.logo span{
+    color: rgb(206, 18, 34);
+}
+
+
+
+.title1{
+    color: black;
+    padding: 20px;
+}
+
+
+.title1 span{
+color: rgb(99, 34, 34);
+}
+
+
+
+
+.card1{
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    background: rgb(23, 23,24.1) ;
+    color: rgb(67, 81, 94);
+}
+
+
+.card-footer{
+    background: rgb(0, 0, 0) ;
+    color: aliceblue;
+}
+
+
+.btn {
+    background-color: #282d33;
+    outline: 0;
+    border: 0;
+    color: white;
+    
+}
+
+
+.btn:hover{
+    background-color: rgb(0,0, 0);
+    color: white;
+}
+
+
+
+.bolds{
+    color: black;
+    font-weight: bold;
+}
